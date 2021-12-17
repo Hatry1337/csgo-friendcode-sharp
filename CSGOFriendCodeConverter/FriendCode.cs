@@ -11,7 +11,7 @@ namespace CSGOFriendCodeConverter
         private static BigInteger default_steam_id = 0x110000100000000;
         private static BigInteger default_group_id = 0x170000000000000;
         private static string alnum = "ABCDEFGHJKLMNPQRSTUVWXYZ23456789";
-        private static Dictionary<char, int> ralnum = new Dictionary<char, int>
+        private static Dictionary<char, BigInteger> ralnum = new Dictionary<char, BigInteger>
         {
             ['A'] = 0,
             ['B'] = 1,
