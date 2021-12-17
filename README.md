@@ -1,6 +1,6 @@
 # csgo-friendcode-sharp
 
-Based on the [js version](https://github.com/emily33901/js-csfriendcode) that He wrote. This takes a steamid64 and turns it into a CSGO friend code or takes a friend code and turns it into a steamid64.
+Based on the [js version](https://github.com/emily33901/js-csfriendcode) that [Emily](https://github.com/emily33901/) wrote. This takes a steamid64 and turns it into a CSGO friend code or takes a friend code and turns it into a steamid64.
 
 ```cs
 using System;
